@@ -1,0 +1,3 @@
+To accommodate the new reduced budget, I modified the resource configuration of the Amazon EC2 instances for the Web & Application servers, and the Database instance (Amazon RDS for MySQL). 
+
+For the EC2 instances, I reduced the Memory size of the instances and the number of running instances. For the Database instance, I changed the pricing model to “Standard Reserved Instances”. 

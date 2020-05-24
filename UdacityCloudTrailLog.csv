@@ -1,0 +1,100 @@
+Event ID,Event time,User name,Event name,Resource type,Resources,AWS access key,AWS region,Error code,Source IP address
+300a45df-4720-4fc1-939d-3bca6d9aaac5,"2020-05-23, 11:55:43 PM",CloudTrail,ListTopics,,,,us-west-1,,41.190.14.91
+7464e6cf-48b7-474d-a9a8-b19fee398fc8,"2020-05-23, 11:55:43 PM",CloudTrail,ListKeys,,,,us-west-1,,41.190.14.91
+9c62d960-e6be-4896-bdbd-7a26e48aa82d,"2020-05-23, 11:55:43 PM",CloudTrail,DescribeTrails,,,,us-west-1,,41.190.14.91
+9de02102-cbc7-4e2a-9b46-1e419b326e68,"2020-05-23, 11:55:43 PM",CloudTrail,ListFunctions20150331,,,,us-west-1,,41.190.14.91
+ce1bc63a-0ae2-4856-b65f-b94c247d692a,"2020-05-23, 11:55:43 PM",CloudTrail,ListAliases,,,,us-west-1,,41.190.14.91
+cf3882e7-a8f8-4074-817e-969f80d1e040,"2020-05-23, 11:55:39 PM",CloudTrail,DescribeConfigurationRecorders,,,,us-west-1,AccessDenied,41.190.14.91
+57e74ad7-a820-4614-9a08-d6dadaff8a0a,"2020-05-23, 11:55:38 PM",CloudTrail,LookupEvents,,,,us-west-1,,41.190.14.91
+b67c328f-b24a-43f5-9ba7-b5274b51828f,"2020-05-23, 11:55:38 PM",CloudTrail,LookupEvents,,,,us-west-1,,41.190.14.91
+e20928c3-2f5d-4ebb-89b0-5e1fcf0e9028,"2020-05-23, 11:55:32 PM",CloudTrail,ListBuckets,,,,us-west-1,,41.190.14.91
+4efd84ba-e212-42ef-b5a1-d0e92bcd6c40,"2020-05-23, 11:55:31 PM",CloudTrail,DescribeTrails,,,,us-west-1,,41.190.14.91
+4310bd23-62cc-4566-82a4-88ae102593a6,"2020-05-23, 11:54:00 PM",Accountant,ListServiceSpecificCredentials,,,,us-east-1,AccessDenied,41.190.14.91
+6012dfcc-d812-403f-9a9a-f1c1ee608218,"2020-05-23, 11:54:00 PM",Accountant,GetUser,,,,us-east-1,AccessDenied,41.190.14.91
+6f2c3e78-c30c-4d7a-bba6-d500ec7aed79,"2020-05-23, 11:54:00 PM",Accountant,ListServiceSpecificCredentials,,,,us-east-1,AccessDenied,41.190.14.91
+0523e883-adb6-4dc9-842a-cb6fc2d8547e,"2020-05-23, 11:53:59 PM",Accountant,GetAccountSummary,,,,us-east-1,AccessDenied,41.190.14.91
+42c9c0e8-c0eb-43eb-a9ce-2f877f8380aa,"2020-05-23, 11:53:59 PM",Accountant,ListUsers,,,,us-east-1,AccessDenied,41.190.14.91
+474ecf71-10ee-4335-9ee3-d9c7ec8fb5e8,"2020-05-23, 11:53:59 PM",Accountant,ListAccountAliases,,,,us-east-1,AccessDenied,41.190.14.91
+8634e77c-3700-40c0-a432-d3769746dab4,"2020-05-23, 11:53:59 PM",Accountant,ListAccountAliases,,,,us-east-1,AccessDenied,41.190.14.91
+8937ec8a-70c8-4260-a4c9-4fbfe199a7bc,"2020-05-23, 11:53:59 PM",Accountant,GetAccountPasswordPolicy,,,,us-east-1,,41.190.14.91
+baf8fe34-6204-4b3d-8890-873afb046685,"2020-05-23, 11:53:59 PM",Accountant,ListUsers,,,,us-east-1,AccessDenied,41.190.14.91
+c7597ddf-44d9-423f-bc8d-99dc45ea6b03,"2020-05-23, 11:53:59 PM",Accountant,ListAccessKeys,,,,us-east-1,AccessDenied,41.190.14.91
+c33d38fc-6661-44af-8517-8e20cc93ba24,"2020-05-23, 11:53:58 PM",Accountant,GetAccountPasswordPolicy,,,,us-east-1,,41.190.14.91
+dbc20d50-941f-4c63-9332-e5a6f04a85df,"2020-05-23, 11:53:58 PM",Accountant,GetAccountSummary,,,,us-east-1,AccessDenied,41.190.14.91
+e1bc8748-9ddc-41ba-8262-c70ad303dfbd,"2020-05-23, 11:53:58 PM",Accountant,ListAccessKeys,,,,us-east-1,AccessDenied,41.190.14.91
+e564e353-4fe9-4b26-95ad-02b712acf5a6,"2020-05-23, 11:53:58 PM",Accountant,ListAccountAliases,,,,us-east-1,AccessDenied,41.190.14.91
+e65cd9c9-d900-43de-bd63-e6817a9f4033,"2020-05-23, 11:53:36 PM",Accountant,ChangePassword,,,,us-east-1,,AWS Internal
+d5701d0a-87a9-4e68-8f76-f52363dc403c,"2020-05-23, 11:52:27 PM",CloudTrail,ChangePassword,,,,us-east-1,,AWS Internal
+0423ab93-cc1c-4841-8895-6b4130cd071d,"2020-05-23, 11:51:15 PM",Admin_Udacity,ListSSHPublicKeys,,,,us-east-1,,41.190.14.91
+7f87e3c5-4837-41a6-bd46-c0aec9ae0f2a,"2020-05-23, 11:51:15 PM",Admin_Udacity,ListServiceSpecificCredentials,,,,us-east-1,,41.190.14.91
+a391aa5d-a19e-4a3a-8477-5df20b285bcd,"2020-05-23, 11:51:15 PM",Admin_Udacity,ListServiceSpecificCredentials,,,,us-east-1,,41.190.14.91
+d754177a-dce1-44a0-830e-1124113383d9,"2020-05-23, 11:51:14 PM",Admin_Udacity,GetUser,,,,us-east-1,,41.190.14.91
+37f3428f-1af9-420a-904f-f3f8d88014e3,"2020-05-23, 11:50:58 PM",Admin_Udacity,ListSSHPublicKeys,,,,us-east-1,,41.190.14.91
+43b63bad-a740-4fb3-9def-2eee55cf1c9c,"2020-05-23, 11:50:58 PM",Admin_Udacity,ListServiceSpecificCredentials,,,,us-east-1,,41.190.14.91
+feefbaa4-d945-4b70-b0bb-bf26c08f970a,"2020-05-23, 11:50:58 PM",Admin_Udacity,ListServiceSpecificCredentials,,,,us-east-1,,41.190.14.91
+2ea2f7a0-fedf-4d4b-899e-dfc62c6145e8,"2020-05-23, 11:50:28 PM",Admin_Udacity,ListUserTags,,,,us-east-1,,41.190.14.91
+4213ff3a-d4c8-493d-9fb2-56c0cab4194b,"2020-05-23, 11:50:28 PM",Admin_Udacity,ListAttachedUserPolicies,,,,us-east-1,,41.190.14.91
+a3b52b1b-62f2-4581-bb45-fa608843363e,"2020-05-23, 11:50:28 PM",Admin_Udacity,GetUser,,,,us-east-1,,41.190.14.91
+abf75b0e-c3ef-4c1b-9379-348b860d4dde,"2020-05-23, 11:49:49 PM",Admin_Udacity,ListAttachedUserPolicies,,,,us-east-1,,41.190.14.91
+e6d39b5a-75f8-43e4-bcf3-6217f3070fcf,"2020-05-23, 11:49:49 PM",Admin_Udacity,GetUser,,,,us-east-1,,41.190.14.91
+aa38af06-ee6e-4e22-ae81-8c86b284c5bb,"2020-05-23, 11:49:48 PM",Admin_Udacity,ListUserTags,,,,us-east-1,,41.190.14.91
+b1ae91a1-8757-4b05-9dad-1907b2afa850,"2020-05-23, 11:48:34 PM",Admin_Udacity,ListUsers,,,,us-east-1,,41.190.14.91
+539a1c06-4f5a-41d3-96ab-2a6b38f0c02d,"2020-05-23, 11:48:31 PM",Admin_Udacity,ListUsers,,,,us-east-1,,41.190.14.91
+4336b2c8-982b-41bf-92b1-5ad20d40f33c,"2020-05-23, 11:48:27 PM",Admin_Udacity,GetGroup,,,,us-east-1,,41.190.14.91
+4de63a08-d103-4461-8e13-51e0a41a2500,"2020-05-23, 11:48:27 PM",Admin_Udacity,ListGroupsForUser,,,,us-east-1,,41.190.14.91
+936aff1c-29b8-47f2-a4ba-b9fe120c014a,"2020-05-23, 11:48:27 PM",Admin_Udacity,RemoveUserFromGroup,IAM User and 1 more,"[{""resourceType"":""AWS::IAM::User"",""resourceName"":""CloudTrail""},{""resourceType"":""AWS::IAM::Group"",""resourceName"":""Reviewers""}]",,us-east-1,,41.190.14.91
+663bc78d-f140-4e22-bdca-b6ac61ceab38,"2020-05-23, 11:48:22 PM",Admin_Udacity,GetGroup,,,,us-east-1,,41.190.14.91
+32fb67b1-4482-4bbb-9606-c22925111278,"2020-05-23, 11:48:15 PM",Admin_Udacity,ListGroupsForUser,,,,us-east-1,,41.190.14.91
+51bcf2a4-b584-4de1-9dfe-5ffd605680f0,"2020-05-23, 11:48:15 PM",Admin_Udacity,GetGroup,,,,us-east-1,,41.190.14.91
+665cb4bd-96b6-4cea-8815-f4f3a66358f9,"2020-05-23, 11:48:15 PM",Admin_Udacity,RemoveUserFromGroup,IAM User and 1 more,"[{""resourceType"":""AWS::IAM::User"",""resourceName"":""Accountant""},{""resourceType"":""AWS::IAM::Group"",""resourceName"":""CloudTrailAdmins""}]",,us-east-1,,41.190.14.91
+d7ca926c-44e4-41b0-bdae-6261406bb58f,"2020-05-23, 11:48:06 PM",Admin_Udacity,GetGroup,,,,us-east-1,,41.190.14.91
+413ed04c-b399-46ae-ab68-e10f9eeef1b7,"2020-05-23, 11:48:04 PM",Admin_Udacity,ListGroups,,,,us-east-1,,41.190.14.91
+b4332571-e096-4d41-84bf-e4c149b77c6c,"2020-05-23, 11:48:04 PM",Admin_Udacity,ListGroups,,,,us-east-1,,41.190.14.91
+24abbdd1-92d4-4c37-94fe-8e0ad72b0fe7,"2020-05-23, 11:47:46 PM",Admin_Udacity,ListPolicies,,,,us-east-1,,41.190.14.91
+c2d7abad-a2a7-4032-9fc3-7918d666edc7,"2020-05-23, 11:47:46 PM",Admin_Udacity,ListAccountAliases,,,,us-east-1,,41.190.14.91
+237fb53e-ab07-4abf-ac6f-97a4ea2ede6f,"2020-05-23, 11:47:45 PM",Admin_Udacity,CreateLoginProfile,IAM User,"[{""resourceType"":""AWS::IAM::User"",""resourceName"":""Accountant""}]",,us-east-1,,41.190.14.91
+18619aaa-d82c-461b-974b-9736a5bbe59e,"2020-05-23, 11:47:44 PM",Admin_Udacity,ListUsers,,,,us-east-1,,41.190.14.91
+2b2d7c3c-832a-4dac-8cf1-8d4209d466e9,"2020-05-23, 11:47:44 PM",Admin_Udacity,GetPolicy,,,,us-east-1,,41.190.14.91
+2ec69ab8-2ca1-433a-aa2d-2c79b793363d,"2020-05-23, 11:47:44 PM",Admin_Udacity,AttachUserPolicy,IAM User and 1 more,"[{""resourceType"":""AWS::IAM::User"",""resourceName"":""Accountant""},{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""arn:aws:iam::aws:policy/IAMUserChangePassword""}]",,us-east-1,,41.190.14.91
+3037b08f-1005-4d0a-aa0c-955ca4188562,"2020-05-23, 11:47:44 PM",Admin_Udacity,CreateLoginProfile,IAM User,"[{""resourceType"":""AWS::IAM::User"",""resourceName"":""CloudTrail""}]",,us-east-1,,41.190.14.91
+37503df4-1bfa-4577-b651-490a22d1ed89,"2020-05-23, 11:47:44 PM",Admin_Udacity,ListGroupsForUser,,,,us-east-1,,41.190.14.91
+6a0309f9-aba5-47d1-991a-9146571297d9,"2020-05-23, 11:47:44 PM",Admin_Udacity,AddUserToGroup,IAM User and 1 more,"[{""resourceType"":""AWS::IAM::User"",""resourceName"":""Accountant""},{""resourceType"":""AWS::IAM::Group"",""resourceName"":""Reviewers""}]",,us-east-1,,41.190.14.91
+7e08eb46-e741-41a6-859f-ef0423c0ea1e,"2020-05-23, 11:47:44 PM",Admin_Udacity,AddUserToGroup,IAM User and 1 more,"[{""resourceType"":""AWS::IAM::User"",""resourceName"":""Accountant""},{""resourceType"":""AWS::IAM::Group"",""resourceName"":""CloudTrailAdmins""}]",,us-east-1,,41.190.14.91
+b587a670-daae-4e5b-9c59-41b77549fd0a,"2020-05-23, 11:47:44 PM",Admin_Udacity,AddUserToGroup,IAM User and 1 more,"[{""resourceType"":""AWS::IAM::User"",""resourceName"":""CloudTrail""},{""resourceType"":""AWS::IAM::Group"",""resourceName"":""Reviewers""}]",,us-east-1,,41.190.14.91
+b8a98129-0eae-43c2-a9a5-7fefead05ada,"2020-05-23, 11:47:44 PM",Admin_Udacity,ListGroupsForUser,,,,us-east-1,,41.190.14.91
+d0f2b433-5d71-4827-bc10-c34ab0a4ec2a,"2020-05-23, 11:47:44 PM",Admin_Udacity,AddUserToGroup,IAM User and 1 more,"[{""resourceType"":""AWS::IAM::User"",""resourceName"":""CloudTrail""},{""resourceType"":""AWS::IAM::Group"",""resourceName"":""CloudTrailAdmins""}]",,us-east-1,,41.190.14.91
+f1dd8f4d-12cd-48d3-82a2-c01cea27bdcd,"2020-05-23, 11:47:44 PM",Admin_Udacity,AttachUserPolicy,IAM User and 1 more,"[{""resourceType"":""AWS::IAM::User"",""resourceName"":""CloudTrail""},{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""arn:aws:iam::aws:policy/IAMUserChangePassword""}]",,us-east-1,,41.190.14.91
+49e05a3f-09e4-43ea-af5d-690fd2456523,"2020-05-23, 11:47:43 PM",Admin_Udacity,CreateUser,IAM User,"[{""resourceType"":""AWS::IAM::User"",""resourceName"":""arn:aws:iam::676517920437:user/Accountant""},{""resourceType"":""AWS::IAM::User"",""resourceName"":""Accountant""},{""resourceType"":""AWS::IAM::User"",""resourceName"":""AIDAZ3A44H22YVPCMZAJX""}]",,us-east-1,,41.190.14.91
+a6fd42e7-76d4-4f87-acc2-bb0675c3119f,"2020-05-23, 11:47:43 PM",Admin_Udacity,CreateUser,IAM User,"[{""resourceType"":""AWS::IAM::User"",""resourceName"":""arn:aws:iam::676517920437:user/CloudTrail""},{""resourceType"":""AWS::IAM::User"",""resourceName"":""AIDAZ3A44H22U2D23VOXL""},{""resourceType"":""AWS::IAM::User"",""resourceName"":""CloudTrail""}]",,us-east-1,,41.190.14.91
+719045d9-b15a-4a82-a974-65baefdd2587,"2020-05-23, 11:47:10 PM",Admin_Udacity,ListAttachedGroupPolicies,,,,us-east-1,,41.190.14.91
+918059cd-cc26-46a4-9c29-8a9924696c9a,"2020-05-23, 11:47:10 PM",Admin_Udacity,ListAttachedGroupPolicies,,,,us-east-1,,41.190.14.91
+b88a28cf-5ab5-4887-b49a-999dfaacc1ea,"2020-05-23, 11:47:10 PM",Admin_Udacity,ListAttachedGroupPolicies,,,,us-east-1,,41.190.14.91
+0f2a5289-f8c0-4ce4-9916-80cf55fc4224,"2020-05-23, 11:44:17 PM",Admin_Udacity,ListPolicies,,,,us-east-1,,41.190.14.91
+4c62630a-e90b-4916-a830-d9b259a3fad4,"2020-05-23, 11:44:16 PM",Admin_Udacity,ListGroups,,,,us-east-1,,41.190.14.91
+04a8e1be-e4fa-4069-9f1e-ace180603728,"2020-05-23, 11:44:15 PM",Admin_Udacity,ListUsers,,,,us-east-1,,41.190.14.91
+69f8576e-550a-42da-a19c-ac4e1954c36d,"2020-05-23, 11:44:15 PM",Admin_Udacity,ListUsers,,,,us-east-1,,41.190.14.91
+09fc7d35-f291-4da8-964a-20b588b1adec,"2020-05-23, 11:43:47 PM",Admin_Udacity,CreateGroup,IAM Group,"[{""resourceType"":""AWS::IAM::Group"",""resourceName"":""Reviewers""},{""resourceType"":""AWS::IAM::Group"",""resourceName"":""AGPAZ3A44H22VWZ4ZFNZD""},{""resourceType"":""AWS::IAM::Group"",""resourceName"":""arn:aws:iam::676517920437:group/Reviewers""}]",,us-east-1,,41.190.14.91
+232603a6-3d07-4836-b353-18a5d6915c2f,"2020-05-23, 11:43:47 PM",Admin_Udacity,ListGroups,,,,us-east-1,,41.190.14.91
+c54fc69d-4b58-435f-8a25-2baee4208ee4,"2020-05-23, 11:43:47 PM",Admin_Udacity,AttachGroupPolicy,IAM Policy and 1 more,"[{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""arn:aws:iam::aws:policy/job-function/Billing""},{""resourceType"":""AWS::IAM::Group"",""resourceName"":""Reviewers""}]",,us-east-1,,41.190.14.91
+d101da7d-c0b2-44ec-bf2a-f70b176ecaec,"2020-05-23, 11:43:37 PM",Admin_Udacity,ListPolicies,,,,us-east-1,,41.190.14.91
+ca6cafa4-7eef-45a4-a702-993b49311e52,"2020-05-23, 11:43:23 PM",Admin_Udacity,ListGroups,,,,us-east-1,,41.190.14.91
+67cddce0-13ca-4f37-8aaf-bbb454762cef,"2020-05-23, 11:43:22 PM",Admin_Udacity,AttachGroupPolicy,IAM Policy and 1 more,"[{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""arn:aws:iam::aws:policy/AWSCloudTrailReadOnlyAccess""},{""resourceType"":""AWS::IAM::Group"",""resourceName"":""CloudTrailAdmins""}]",,us-east-1,,41.190.14.91
+92034512-f6fb-4f36-8384-703c4a8299f3,"2020-05-23, 11:43:22 PM",Admin_Udacity,AttachGroupPolicy,IAM Policy and 1 more,"[{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""arn:aws:iam::aws:policy/AWSCloudTrailFullAccess""},{""resourceType"":""AWS::IAM::Group"",""resourceName"":""CloudTrailAdmins""}]",,us-east-1,,41.190.14.91
+a3cb4c17-9561-400f-bdfd-832f70aee65a,"2020-05-23, 11:43:22 PM",Admin_Udacity,CreateGroup,IAM Group,"[{""resourceType"":""AWS::IAM::Group"",""resourceName"":""CloudTrailAdmins""},{""resourceType"":""AWS::IAM::Group"",""resourceName"":""AGPAZ3A44H22UAEJFAT4C""},{""resourceType"":""AWS::IAM::Group"",""resourceName"":""arn:aws:iam::676517920437:group/CloudTrailAdmins""}]",,us-east-1,,41.190.14.91
+7800e8c5-c65a-421b-8e33-dda86bdfcf29,"2020-05-23, 11:42:33 PM",Admin_Udacity,ListPolicies,,,,us-east-1,,41.190.14.91
+e654cdb9-f360-43b1-b693-21207bd795fc,"2020-05-23, 11:42:24 PM",Admin_Udacity,ListGroups,,,,us-east-1,,41.190.14.91
+81bd064d-fe99-4d85-ba43-2b9cc747b2e9,"2020-05-23, 11:40:55 PM",Admin_Udacity,GetAccountPasswordPolicy,,,,us-east-1,,41.190.14.91
+fe8efae5-eac3-4b0c-997d-54434f170973,"2020-05-23, 11:40:55 PM",Admin_Udacity,UpdateAccountPasswordPolicy,,,,us-east-1,,41.190.14.91
+0bf3f808-a31f-4c14-be27-a85b66418637,"2020-05-23, 11:39:31 PM",Admin_Udacity,GetAccountPasswordPolicy,,,,us-east-1,NoSuchEntityException,41.190.14.91
+491e1b57-c0b0-41bb-8f4a-2c93e54d7310,"2020-05-23, 11:39:31 PM",Admin_Udacity,GetAccountSummary,,,,us-east-1,,41.190.14.91
+498eef42-dc46-46dc-b2fb-061f2dbe5832,"2020-05-23, 11:39:31 PM",Admin_Udacity,GetAccountPasswordPolicy,,,,us-east-1,NoSuchEntityException,41.190.14.91
+4ec3200a-a516-4e9a-8ee5-7d9cf4cf86b1,"2020-05-23, 11:39:31 PM",Admin_Udacity,ListAccessKeys,,,,us-east-1,,41.190.14.91
+a55e5cca-16c6-4979-add0-0b97b802ab6e,"2020-05-23, 11:39:31 PM",Admin_Udacity,ListAccountAliases,,,,us-east-1,,41.190.14.91
+23df3a36-9d61-446a-8dcf-2df5db8e11e8,"2020-05-23, 11:39:20 PM",Admin_Udacity,ListAccountAliases,,,,us-east-1,,41.190.14.91
+477f531b-e581-4c20-b36b-ac6f2c5cabde,"2020-05-23, 11:39:20 PM",Admin_Udacity,GetAccountSummary,,,,us-east-1,,41.190.14.91
+a7c18769-0423-413e-a205-64c1534317fc,"2020-05-23, 11:39:20 PM",Admin_Udacity,GetAccountPasswordPolicy,,,,us-east-1,NoSuchEntityException,41.190.14.91
+b85700f0-13bf-46f5-95ab-d462c29b6b02,"2020-05-23, 11:39:20 PM",Admin_Udacity,ListAccessKeys,,,,us-east-1,,41.190.14.91
+2e6cf2f7-9897-4163-91b8-1079e37031a5,"2020-05-23, 11:39:18 PM",Admin_Udacity,GetAccountPasswordPolicy,,,,us-east-1,NoSuchEntityException,41.190.14.91
+4e651679-d5ef-4bff-9525-c55875f57669,"2020-05-23, 11:39:18 PM",Admin_Udacity,ListAccessKeys,,,,us-east-1,,41.190.14.91
+55e7f98f-9951-46ae-94c1-4971477b64b1,"2020-05-23, 11:39:18 PM",Admin_Udacity,GetAccountSummary,,,,us-east-1,,41.190.14.91
+cd04a4a9-8dbc-40c4-8c6a-e87e2ef238ad,"2020-05-23, 11:39:18 PM",Admin_Udacity,ListAccountAliases,,,,us-east-1,,41.190.14.91
